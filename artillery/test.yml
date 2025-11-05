@@ -1,0 +1,23 @@
+config:
+  target: "https://shaxzodbek.com"  
+  phases:
+    - duration: 120 
+      arrivalRate: 200  
+      rampTo: 500 
+  defaults:
+    headers:
+      User-Agent: "Artillery Load Test"
+
+scenarios:
+  - flow:
+      - get:
+          url: "/"
+      - get:
+          url: "/about"
+      - get:
+          url: "/projects"
+      - get:
+          url: "/blog"
+      - get:
+          url: "/features"
+      - think: 1  

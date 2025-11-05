@@ -1,0 +1,181 @@
+2025-04-25 18:31:37,950 - Server ishga tushdi: 127.0.0.1 9999
+2025-04-25 18:32:13,229 - Yangi mijoz ulando: ('127.0.0.1', 57507)
+2025-04-25 18:32:13,230 - Mijozdan javob (('127.0.0.1', 57507)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:13,231 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57507)
+2025-04-25 18:32:13,232 - Yangi mijoz ulando: ('127.0.0.1', 57508)
+2025-04-25 18:32:14,351 - Mijozdan javob (('127.0.0.1', 57508)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:14,352 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57508)
+2025-04-25 18:32:14,353 - Yangi mijoz ulando: ('127.0.0.1', 57521)
+2025-04-25 18:32:14,354 - Mijozdan javob (('127.0.0.1', 57521)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:14,354 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57521)
+2025-04-25 18:32:14,357 - Yangi mijoz ulando: ('127.0.0.1', 57522)
+2025-04-25 18:32:19,378 - Mijozdan javob (('127.0.0.1', 57522)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:19,379 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57522)
+2025-04-25 18:32:19,381 - Yangi mijoz ulando: ('127.0.0.1', 57532)
+2025-04-25 18:32:19,382 - Mijozdan javob (('127.0.0.1', 57532)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:19,382 - Yangi mijoz ulando: ('127.0.0.1', 57533)
+2025-04-25 18:32:19,382 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57532)
+2025-04-25 18:32:36,292 - Mijozdan javob (('127.0.0.1', 57533)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:36,292 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57533)
+2025-04-25 18:32:36,294 - Yangi mijoz ulando: ('127.0.0.1', 57544)
+2025-04-25 18:32:36,295 - Mijozdan javob (('127.0.0.1', 57544)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:32:36,295 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57544)
+2025-04-25 18:32:36,299 - Yangi mijoz ulando: ('127.0.0.1', 57545)
+2025-04-25 18:32:36,299 - Yangi mijoz ulando: ('127.0.0.1', 57546)
+2025-04-25 18:32:51,308 - Server ishga tushdi: 127.0.0.1 9999
+2025-04-25 18:33:06,345 - Yangi mijoz ulando: ('127.0.0.1', 57578)
+2025-04-25 18:33:06,345 - Mijozdan javob (('127.0.0.1', 57578)) GET / HTTP/1.1
+Host: 127.0.0.1:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: uz,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: csrftoken=Z3FxyYzrqeSlGt8Z6F1xX0g8VV1lALHC
+
+
+2025-04-25 18:33:06,345 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57578)
+2025-04-25 18:33:06,346 - Yangi mijoz ulando: ('127.0.0.1', 57579)
+2025-04-25 18:33:30,721 - Buyruq jo'natishda xato: ('127.0.0.1', 57579)
+2025-04-25 18:33:30,722 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 57579)
+2025-04-25 18:34:59,782 - Server ishga tushdi: 127.0.0.1 9999
+2025-04-25 18:39:33,524 - Yangi mijoz ulando: ('127.0.0.1', 58012)
+2025-04-25 18:40:27,256 - Buyruq jo'natishda xato: ('127.0.0.1', 58012)
+2025-04-25 18:40:27,257 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 58012)
+2025-04-25 18:40:49,957 - Yangi mijoz ulando: ('127.0.0.1', 58065)
+2025-04-25 18:40:57,027 - Buyruq jo'natishda xato: ('127.0.0.1', 58065)
+2025-04-25 18:40:57,028 - Mijoz bilan aloqa uzildi: ('127.0.0.1', 58065)
